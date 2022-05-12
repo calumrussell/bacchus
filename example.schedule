@@ -1,0 +1,12 @@
+{
+  "block_path": "./test.list",
+  "schedule": {
+   "Monday": [9,19],
+   "Tuesday": [9,19],
+   "Wednesday": [9,19],
+   "Thursday": [9,19],
+   "Friday": [9,19],
+   "Saturday": [9,19],
+   "Sunday": [9,19]
+  }
+}
